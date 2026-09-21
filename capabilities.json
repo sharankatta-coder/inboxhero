@@ -1,0 +1,104 @@
+{
+  "student": "Ada Example, 2026XXXXXX",
+  "repo": "https://github.com/ada-example/inboxhero",
+  "system": {
+    "framework": "none",
+    "model": "gemini-1.5-flash for triage and drafting; gemini-1.5-pro for conflict check.",
+    "messages_processed": 80,
+    "rule_handled": 38,
+    "dispositions": [
+      "reply",
+      "archive",
+      "defer",
+      "delegate",
+      "escalate"
+    ],
+    "retrieval": "thread-walk",
+    "irreversible": [
+      "send",
+      "delete"
+    ],
+    "reversible": [
+      "draft",
+      "label",
+      "archive",
+      "defer"
+    ],
+    "gate": "both",
+    "preference_demo": "m015: CC Priya on all legal mail"
+  },
+  "capabilities": [
+    {
+      "id": "R1",
+      "name": "Zero the inbox",
+      "tier": "B",
+      "claim": "Assigns every message exactly one disposition with a one-line reason.",
+      "command": "python demo.py --cap R1",
+      "observable": "Prints summary of processed messages and writes decisions.json.",
+      "evidence": "trace.jsonl, events tagged cap=R1"
+    },
+    {
+      "id": "R2",
+      "name": "Grounded reply",
+      "tier": "B",
+      "claim": "Drafts a reply grounded in thread history and records cited message IDs.",
+      "command": "python demo.py --cap R2 --msg m008",
+      "observable": "Prints draft containing staging credentials from m003 and cited list.",
+      "evidence": "trace.jsonl, events tagged cap=R2"
+    },
+    {
+      "id": "R3",
+      "name": "Gate the irreversible",
+      "tier": "C",
+      "claim": "Prevents send/delete without approval or --dry-run.",
+      "command": "python demo.py --cap R3 --dry-run",
+      "observable": "Outputs gated preview without modifying disk.",
+      "evidence": "trace.jsonl, events tagged cap=R3"
+    },
+    {
+      "id": "R4",
+      "name": "Persistent preference",
+      "tier": "C",
+      "claim": "Persists stated preferences and applies them in subsequent runs.",
+      "command": "python demo.py --cap R4",
+      "observable": "Stores preference to prefs.json and applies CC on legal emails.",
+      "evidence": "prefs.json, trace.jsonl tagged cap=R4"
+    },
+    {
+      "id": "R5",
+      "name": "Refuse embedded instructions",
+      "tier": "C",
+      "claim": "Detects prompt injections, refuses execution, and flags messages.",
+      "command": "python demo.py --cap R5",
+      "observable": "Prints FLAGGED status for hostile messages without executing outbox writes.",
+      "evidence": "trace.jsonl tagged cap=R5"
+    },
+    {
+      "id": "R6",
+      "name": "Dashboard",
+      "tier": "C",
+      "claim": "Generates 3-pane view with commitments and conflicts.",
+      "command": "python demo.py --cap R6",
+      "observable": "Writes dashboard.html and dashboard.json.",
+      "evidence": "dashboard.html, trace.jsonl tagged cap=R6"
+    },
+    {
+      "id": "X1",
+      "name": "Follow-up tracking",
+      "tier": "B",
+      "claim": "Identifies unanswered sent messages and drafts follow-ups.",
+      "command": "python demo.py --cap X1",
+      "observable": "Prints JSON list of follow-up drafts.",
+      "evidence": "trace.jsonl tagged cap=X1"
+    },
+    {
+      "id": "X2",
+      "name": "Morning digest",
+      "tier": "B",
+      "claim": "Produces structured summary of daily priority items.",
+      "command": "python demo.py --cap X2",
+      "observable": "Prints 3-section morning digest.",
+      "evidence": "trace.jsonl tagged cap=X2"
+    }
+  ]
+}
