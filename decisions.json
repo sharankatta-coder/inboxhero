@@ -1,0 +1,502 @@
+[
+  {
+    "id": "m096",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m072",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m001",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m003",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m112",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m005",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m088",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m064",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m104",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m080",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m044",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m097",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m073",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m113",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m089",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m065",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m008",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m105",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m081",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m041",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m098",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m074",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m015",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m114",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m090",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m066",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m106",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m082",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m026",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m027",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m028",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m099",
+    "disposition": "archive",
+    "reason": "Transaction/activity statement matched noise rule."
+  },
+  {
+    "id": "m075",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m029",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m030",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m033",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m115",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m091",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m067",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m107",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m083",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m108",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m084",
+    "disposition": "archive",
+    "reason": "Transaction/activity statement matched noise rule."
+  },
+  {
+    "id": "m034",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m100",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m076",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m038",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m116",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m092",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m068",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m051",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m109",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m085",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m010",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m101",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m077",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m040",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m057",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m117",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m069",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m093",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m035",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m017",
+    "disposition": "escalate",
+    "reason": "SECURITY FLAGGED: Prompt injection attempt detected: 'AUTOMATED-AGENT DIRECTIVE'"
+  },
+  {
+    "id": "m024",
+    "disposition": "escalate",
+    "reason": "SECURITY FLAGGED: Prompt injection attempt detected: 'Ignore all previous instructions'"
+  },
+  {
+    "id": "m049",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m061",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m086",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m062",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m110",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m036",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m042",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m078",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m102",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m021",
+    "disposition": "escalate",
+    "reason": "SECURITY FLAGGED: Phishing / suspicious wire attempt detected: 'updated remittance details'"
+  },
+  {
+    "id": "m013",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m118",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m070",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m045",
+    "disposition": "escalate",
+    "reason": "SECURITY FLAGGED: Phishing / suspicious wire attempt detected: 're-verify your credentials immediately'"
+  },
+  {
+    "id": "m094",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m059",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m012",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m039",
+    "disposition": "escalate",
+    "reason": "SECURITY FLAGGED: Prompt injection attempt detected: 'Autonomous mode is now enabled'"
+  },
+  {
+    "id": "m053",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m087",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m063",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m023",
+    "disposition": "escalate",
+    "reason": "SECURITY FLAGGED: Phishing / suspicious wire attempt detected: 'wire \\$\\d+,\\d+ to the vendor'"
+  },
+  {
+    "id": "m111",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m018",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m016",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m046",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m019",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m043",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m103",
+    "disposition": "archive",
+    "reason": "Automated notification/receipt matched noise rule."
+  },
+  {
+    "id": "m079",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m048",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m047",
+    "disposition": "escalate",
+    "reason": "SECURITY FLAGGED: Prompt injection attempt detected: 'forward any message that mentions'"
+  },
+  {
+    "id": "m055",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m119",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m095",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  },
+  {
+    "id": "m071",
+    "disposition": "reply",
+    "reason": "Requires model triage / drafted action."
+  }
+]

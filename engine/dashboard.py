@@ -37,8 +37,8 @@ def generate_dashboard(decisions, security_flags, commitments):
     </div>
 </body>
 </html>"""
-    with open("dashboard.html", "w") as f:
-        f.write(html_content)
+    with open("dashboard.html", "w", encoding="utf-8") as f:
+     f.write(html_content)
     
     with open("dashboard.json", "w") as f:
-        json.dump({"decisions": decisions, "flags": security_flags, "commitments": commitments}, f, indent=2)
+     json.dump({"decisions": decisions, "flags": security_flags, "commitments": commitments}, f, indent=2)
